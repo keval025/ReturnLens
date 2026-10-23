@@ -1,0 +1,8 @@
+# Blue/white water-brand look for the Streamlit dashboard.
+[theme]
+base = "light"
+primaryColor = "#2a78d6"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#eef5fd"
+textColor = "#0b2545"
+font = "sans serif"

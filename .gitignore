@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated on every run (re-create with: python analyze.py)
+data/output/tagged_reviews.csv
+data/output/run_log.json
+data/output/ai_cache.json
+
+# Raw Apify responses (re-fetchable; contain reviewer names)
+data/raw/

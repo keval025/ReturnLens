@@ -1,0 +1,31 @@
+﻿review_id,rating,text,true_reason,secondary_reason
+R06f41e9c,1,Product description needs to have details of the type of fittings it can connect to. Have had a product related issue but their support is almost never available,fit_compatibility,delivery_service
+R0bf95e12,1,This product it's not good. This product waste water tds is coming More the before Water,wrong_expectation,
+R0c5598df,1,"Dont buy unless inlet is made more sturdy. The plastic inlet broke under water pressure after just three days of use (photo provided), making the product unusable. I highly recommend using higher-quality, durable materials for this component. Because it broke so quickly, I cannot comment on its filtration performance. Installation was easy that is the only plus point in this product. Compared to this RiverSoft SF-15 PRO is much better prodict. I would recommend to go for that",build_quality_durability,
+R11040f28,1,"Scrap Product. Don’t but, useless product. It does not reduce anything quality",no_visible_result,
+R11be1f7c,1,Waste of Money. Full waste.... Not able to feel before and after this. Don't waste your money. Go for some good genuine brand,no_visible_result,price_value
+R29e9962e,1,"Good for nothing. No change in the water level has been observed with this product; a white layer has been forming in the bucket over the past month. The water flows from the tap just as it normally does, the water coming from this filter is exactly the same",no_visible_result,
+R42e9430f,1,Not usefull. Not a good product.. Doesn't work at all. Hardness of water remains same,no_visible_result,
+R5592e9b1,1,Threads delicate. The threads on the attachment are very delicate even attaching it to the taps or shower head it wornsout without even a tool just by barehands,build_quality_durability,fit_compatibility
+R8d40537d,1,"Not worth it at this price !. ""This product is not worth the price. It should not cost more than 900. It was very difficult to fit, and in the end, I really don't like it for this price. I wanted to give it a zero-star rating, but I am giving it one star only because they at least delivered the product.""",price_value,installation_difficulty
+Rc267d671,1,"Not recommended when hardness of water is more. Not working as expected...if the water is more hard product is getting failed. They mentioned every 6 months need to change the cartridge but in my home after 2 months this filter not working properly like , flow of water got decreased",cartridge_life_cost,low_pressure
+R0106c89e,2,"Not worth the money. Not exactly working as expected, that hardness still present in the water even after filterjng",no_visible_result,price_value
+R0275f280,2,Didn't work on my shower. Not so happy. If you see the bottom of the filter it's without any threads - so how am I supposed to attach any of the 4 connectors to it. Basically my shower head couldn't connect to this filter. Had bought for that. Attached to my tap but water is leaking from the attachment even with teflon tape and two washers,fit_compatibility,leakage
+R0b148c5e,2,Overhyped. Basically does nothing and just mindwash thing. Feels same before and after. and I had one leakage issue,no_visible_result,leakage
+R7ba63e71,2,"Doesn't work for me. I don't see any noticeable change in the water after putting this water filter. Fill-up a bucket of water keep it overnight, I see a surface layer (off white, possibly mineral). Even after I put the filter I can see the same. I bought the filter particularly because my hairs become kind of sticky after taking a shower with the bore-well water. But the problem remains same after using the filter too. The red indicator stripe is at the middle after using only for couple of days. I am using bore-well water at Hyderabad. Possibly, the filter makes good water little bit more better. But not at all worthy for very hard bore-well water. I am using it for a couple of weeks now. Looking at it's performance, I do not recommend to buy it, especially with paying a too high price. One can go for a low cost filter to try first",no_visible_result,cartridge_life_cost;price_value
+R7c95fa26,2,Doesn't connect seamlessly with all tapes. There is some water leakage issue as all the connector given didn't fit properly..So had to adjust with tapes. Otherwise the water softener works fine,fit_compatibility,leakage
+R8c516f78,2,Poor quality. Poor quality,build_quality_durability,
+R92a04db2,2,Build quality is poor. Product works and was able to see visible difference but the build quality is poor. It broke within a month,build_quality_durability,
+R99c560e4,2,"Does not work as intended. Did not feel change in hardness of water, blocks within 2-3 months, the claims and benefits are highly exaggerated",no_visible_result,cartridge_life_cost
+Rb17b27a8,2,Spam calling. Item is fine but the customer care has spam called 20 times in 2 days with there same auto generated message,delivery_service,
+Re5011dca,2,"Water flow will reduce within 2-3 weeks. I dont know whether its works or no but the elwater flow will reduce within the use if 2-3 weeks, and you cant clean it either.. such a waste. This is happening for the second time",low_pressure,cartridge_life_cost
+R1c391b24,3,Not Recommended. Not sure if this even works,no_visible_result,
+R2fd1fbc9,3,"Not suitable for boring water. Not very effective for boring water, gets clogged very quickly, in less than 3 months",cartridge_life_cost,no_visible_result
+R3f2450e3,3,Doesnt fit shower. Leaks when attached to shower,fit_compatibility,leakage
+R3f42abbb,3,Leaking. The product I got was leaking from the body,leakage,
+R4490bae7,3,Find something more better than this. No so expected,other,
+R4ac3fff6,3,Cartridge not useful as compare to complete product. Cartridge did not work properly however purchasing as a whole improves a lot of water quality,cartridge_life_cost,
+R4dac5ef2,3,"Unresponsive. The refill cartridge stopped working in 3 month, water doesn't pass through once it's installed",cartridge_life_cost,low_pressure
+R84545870,3,Okay. Okay,other,
+Rb8808fe5,3,Just a filter. Just a filter does effect hard water much,no_visible_result,
+Rbc60e780,3,"Flow got slow after 10days. Average product, water flow becomes slow after 10-12 days",low_pressure,

@@ -1,0 +1,14 @@
+Allowed values for true_reason (copy the name exactly, one per review):
+
+fit_compatibility         Filter does not fit the customer's tap or shower arm.
+leakage                   Water leaks from joints or the housing.
+no_visible_result         Customer saw no improvement in hair, skin or scaling.
+low_pressure              Water pressure or flow drops after installing.
+cartridge_life_cost       Cartridge runs out quickly or refills cost too much.
+damaged_in_transit        Product arrived broken or damaged, or with parts missing.
+build_quality_durability  Product feels cheap, or cracks, snaps or stops working after some use.
+price_value               Customer feels the product is not worth its price.
+installation_difficulty   Customer struggled to install it or needed a plumber.
+wrong_expectation         Customer expected drinking-water purification (RO/TDS).
+delivery_service          Late delivery, refund trouble or no response from support.
+other                     Anything that does not fit the reasons above.

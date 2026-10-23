@@ -1,0 +1,59 @@
+{
+  "source": "gemini",
+  "note": "",
+  "model": "gemini-3.5-flash-lite",
+  "mode": "full",
+  "generated_at": "2026-10-23T21:57:49",
+  "aggregates_hash": "a9e33aee8ef240dbc505f7b7c3770998",
+  "executive_summary": "Analysis of 115 negative reviews for the WaterScience CLEO Shower & Tap Filter highlights build quality, lack of visible results, and price value as primary consumer pain points. Build quality and durability issues represent 38.3 percent of negative feedback across platforms. Addressing these core product and messaging gaps is critical to improving overall customer satisfaction.",
+  "top_issues": [
+    {
+      "reason": "build_quality_durability",
+      "why": "It is the most frequent complaint, driving 38.3 percent of negative reviews and high severity counts.",
+      "evidence_pct": 38.3,
+      "example_quote": "Poor quality"
+    },
+    {
+      "reason": "no_visible_result",
+      "why": "Customers report no perceptible difference in hair, skin, or water quality after installation.",
+      "evidence_pct": 32.2,
+      "example_quote": "No perceptible difference in quality"
+    },
+    {
+      "reason": "price_value",
+      "why": "Buyers feel the product does not justify its cost given the performance and durability issues.",
+      "evidence_pct": 12.2,
+      "example_quote": "Waste of money"
+    },
+    {
+      "reason": "leakage",
+      "why": "Water leaks from joints or housing components, causing frustration during use.",
+      "evidence_pct": 11.3,
+      "example_quote": "Poor durability and water leakage"
+    }
+  ],
+  "recommendations": [
+    {
+      "fix": "Improve plastic formulation and structural integrity of the filter housing to reduce breakage.",
+      "owner": "Product/QC",
+      "effort": "High",
+      "expected_impact": "Lower build quality complaints and severity-3 issues.",
+      "success_metric": "Reduction in build_quality_durability negative reviews by 30 percent."
+    },
+    {
+      "fix": "Update product listings to clearly state that the filter removes hardness salts but does not lower TDS like an RO purifier.",
+      "owner": "Listing",
+      "effort": "Low",
+      "expected_impact": "Manage customer expectations and reduce mismatched performance complaints.",
+      "success_metric": "Decrease in wrong_expectation and no_visible_result feedback."
+    }
+  ],
+  "quick_wins": [
+    "Update the installation manual with clearer leak-prevention and washer-placement steps.",
+    "Add a bold disclaimer on Amazon and Flipkart listings regarding TDS vs hard-water filtration."
+  ],
+  "risks_or_gaps": [
+    "Data is derived exclusively from 1-3 star reviews and does not capture overall return rates.",
+    "Sample size of 115 negative reviews may not represent the entire customer base."
+  ]
+}

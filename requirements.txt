@@ -1,0 +1,10 @@
+pandas>=2.2
+streamlit>=1.50
+plotly>=6.0
+python-dotenv>=1.0
+google-genai>=2.0
+requests>=2.31
+
+# Optional: only needed to fetch reviews from a product link (APIFY_API_TOKEN in .env).
+# Install with:  pip install apify-client
+# apify-client>=3.0
