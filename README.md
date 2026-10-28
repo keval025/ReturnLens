@@ -23,7 +23,7 @@ Then, at the top of the page, **drag & drop your review CSVs → click 🔍 Anal
 
 ## CSV format
 
-Click **📥 Download CSV template** in the app, or use:
+Click **Download CSV template** in the app, or use:
 
 ```
 rating,title,body,date,verified
@@ -87,7 +87,7 @@ Reviews are collected manually (or with the browser helper) from public Amazon.i
 ## Dashboard
 
 - **Top of page**:  Add customer reviews (upload, template, preview,  Analyze reviews with step-by-step progress), then the optional product-link section.
-- ** AI Insights**: executive summary, top issues (% + quote), quick wins, recommendations table (fix, owner, effort, impact, metric). The badge says whether Gemini or the fallback wrote it. Insights cover all data, so the sidebar filters don't change them.
+- **AI Insights**: executive summary, top issues (% + quote), quick wins, recommendations table (fix, owner, effort, impact, metric). The badge says whether Gemini or the fallback wrote it. Insights cover all data, so the sidebar filters don't change them.
 - **Charts**: top reasons, **severity** (severity-3 complaints per reason), **Rules vs Gemini** (Full AI mode only: agreement and examples where Gemini found a reason the rules missed), monthly trend, drill-down quotes, fix owner, recommendations.
 - **Sidebar**:  AI analysis mode,  Re-run analysis,  Data files (row counts; 🗑️ delete after ticking *Yes, delete*, then re-run),  API keys, and filters (product, platform Amazon / Flipkart / Both, rating, dates, verified).
 - **Footer**: AI model · mode · calls · tokens · cost ₹0 · last run time.
