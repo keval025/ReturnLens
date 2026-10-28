@@ -1,4 +1,4 @@
-# 🔍 ReturnLens
+# ReturnLens
 
 **See why customers return — and what to fix first.**
 
@@ -18,7 +18,7 @@ streamlit run app.py          # opens http://localhost:8501
 
 Then, at the top of the page, **drag & drop your review CSVs → click 🔍 Analyze reviews**.
 
-- **No Gemini key?** The app still works: keyword rules only, with a yellow warning. You can also type the key into **🔑 API keys** in the sidebar (tick *Save to .env* to keep it). Keys are never shown or logged, and `.env` is in `.gitignore`.
+- **No Gemini key?** The app still works: keyword rules only, with a yellow warning. You can also type the key into **API keys** in the sidebar (tick *Save to .env* to keep it). Keys are never shown or logged, and `.env` is in `.gitignore`.
 - **Terminal only:** `python analyze.py` (Smart), `python analyze.py --full` (Full AI), `python analyze.py --rules`, then `python eval.py`.
 
 ## CSV format
@@ -50,7 +50,7 @@ It reads only the page you are looking at; it doesn't browse on its own. It reli
 
 ## AI analysis: Smart vs Full AI
 
-Pick the mode in the sidebar (**🧠 AI analysis**):
+Pick the mode in the sidebar (**AI analysis**):
 
 | | Smart (recommended) | Full AI |
 |---|---|---|
@@ -86,10 +86,10 @@ Reviews are collected manually (or with the browser helper) from public Amazon.i
 
 ## Dashboard
 
-- **Top of page**: 📂 Add customer reviews (upload, template, preview, 🔍 Analyze reviews with step-by-step progress), then the optional product-link section.
-- **🧠 AI Insights**: executive summary, top issues (% + quote), quick wins, recommendations table (fix, owner, effort, impact, metric). The badge says whether Gemini or the fallback wrote it. Insights cover all data, so the sidebar filters don't change them.
+- **Top of page**:  Add customer reviews (upload, template, preview,  Analyze reviews with step-by-step progress), then the optional product-link section.
+- ** AI Insights**: executive summary, top issues (% + quote), quick wins, recommendations table (fix, owner, effort, impact, metric). The badge says whether Gemini or the fallback wrote it. Insights cover all data, so the sidebar filters don't change them.
 - **Charts**: top reasons, **severity** (severity-3 complaints per reason), **Rules vs Gemini** (Full AI mode only: agreement and examples where Gemini found a reason the rules missed), monthly trend, drill-down quotes, fix owner, recommendations.
-- **Sidebar**: 🧠 AI analysis mode, 🔁 Re-run analysis, 📁 Data files (row counts; 🗑️ delete after ticking *Yes, delete*, then re-run), 🔑 API keys, and filters (product, platform Amazon / Flipkart / Both, rating, dates, verified).
+- **Sidebar**:  AI analysis mode,  Re-run analysis,  Data files (row counts; 🗑️ delete after ticking *Yes, delete*, then re-run),  API keys, and filters (product, platform Amazon / Flipkart / Both, rating, dates, verified).
 - **Footer**: AI model · mode · calls · tokens · cost ₹0 · last run time.
 
 The data loader is cached on the modification times of `tagged_reviews.csv`, `insights.json` and `run_log.json`, so the dashboard refreshes by itself after every run.
